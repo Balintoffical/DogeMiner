@@ -1,0 +1,2 @@
+# DogeMiner
+ Dogecoin GPU miner
