@@ -9,8 +9,6 @@ Etchash algo for GPU with 4gb memory.
 
 Ethash algo for GPU with more than 4gb memory.
 
-### Warning! 
-Windows defender can mark some files as malicious.
 Password for archive is `dogemine`.
 
 ### Donate
